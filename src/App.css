@@ -70,3 +70,12 @@ h6 {
 .swiper-slide {
   display: flex;
 }
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: red !important;
+}
+
+.swiper-pagination-bullet-active {
+  background: red !important;
+}
