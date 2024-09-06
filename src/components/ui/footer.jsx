@@ -89,7 +89,7 @@ function Footer(){
                 <div className="container">
                     <div className="flex">
                         <div className="w-1/2 text-center md:text-start poppins-regular">
-                            © 2024 - PT. Gue Eksplorasi Terus. All rights reserved.
+                            © 2024 - PT. Gue Eksplorasi Terus. All rights reserved. (Cloned by Bryan Jonathan)
                         </div>
                         <div className="w-1/2">
 
